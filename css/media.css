@@ -1,0 +1,13 @@
+@media screen and (0px < width < 786px) {
+  .cover h1 {
+    font-size: 25px;
+  }
+  .footer-item{
+    width: 100%;
+  }
+  .button{
+    width: 50%;
+  }
+  
+}
+
